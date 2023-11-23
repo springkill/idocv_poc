@@ -12,4 +12,4 @@ I DOC VIEW RCE的Poc，本脚本仅供合法的有授权的测试使用，切勿
 python3 script.py <IP_ADDRESS> <PORT> <REMOTE_IP> <REMOTE_PORT>
 ```
 
-![poc](.\poc.gif)
+![poc](useage.gif)
